@@ -1,8 +1,8 @@
-# PacMen Demo
+# PacMen Exercise
 
 ### Description
 
-This is my PacMen demo.  It features multiple pacmans as they move across the screen, bouncing from one edge to another.  When they hit the left or right side of the screen, they turn around and start towards the opposite side of the screen.
+This is my PacMen Exercise.  It features multiple pacmans as they move across the screen, bouncing from one edge to another.  When they hit the left or right side of the screen, they turn around and start towards the opposite side of the screen.
 
 
 ### How to run
